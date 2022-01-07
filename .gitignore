@@ -104,7 +104,7 @@ dist
 .temp
 .cache
 
-# Serverless directories
+# Serverless directories-
 .serverless/
 
 # FuseBox cache
